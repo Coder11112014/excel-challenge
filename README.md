@@ -23,7 +23,7 @@ Using the Excel table provided, modified and analyzed the data of 4,000 past Kic
 
   * Created a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  ![Subcategory Stats](images/Sub_category_Stats.png)
+  ![Subcategory Stats](images/Sub_Category_Stats.png)
 
   * Created a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
